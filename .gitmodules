@@ -1,0 +1,3 @@
+[submodule "stripe-intergration-with-WDS"]
+	path = stripe-intergration-with-WDS
+	url = git@github.com:GillyRabutTsurwa/stripe-intergration-with-WDS.git
